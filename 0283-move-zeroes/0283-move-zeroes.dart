@@ -7,8 +7,8 @@ class Solution {
                     nums[n]=nums[i];
                     nums[i]=0;
                     break;
-                }
-            }
+                } else {}
+            } else {}
         }
     }
   }
