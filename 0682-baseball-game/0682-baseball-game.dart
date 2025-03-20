@@ -19,12 +19,12 @@ class Solution {
                     break;
                 case 'D':
                     if (score.isNotEmpty) {
-                    score.add(score[score.length-1]*2);
+                    score.add(score.last*2);
                     }
                     break;
                 case '+':
                     if (score.length>=2) {
-                    score.add(score[score.length-2]+score[score.length-1]);
+                    score.add(score[score.length-2]+score.last);
                     }
                     break;
             }
