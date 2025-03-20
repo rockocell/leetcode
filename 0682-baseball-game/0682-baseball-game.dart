@@ -30,9 +30,7 @@ class Solution {
             }
         }
     }
-    for(int i = 0 ; i<score.length; i++) {
-            result += score[i];
-    }
+    result = score.fold(0, (a,b) => a+b);
     return result;
   }
 }
