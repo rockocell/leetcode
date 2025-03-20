@@ -13,14 +13,10 @@ class Solution {
         } else {
             switch(operations[i]) {
                 case 'C':
-                    if (score.isNotEmpty) {
                     score.removeLast();
-                    }
                     break;
                 case 'D':
-                    if (score.isNotEmpty) {
                     score.add(score[score.length-1]*2);
-                    }
                     break;
                 case '+':
                     if (score.length>=2) {
