@@ -7,17 +7,14 @@ class Solution {
     Set<int> set2 = Set<int>.from(nums2);
 
     List<List<int>> answer = [[],[]];
-    List<int> common = [];
 
     for(int s in set1) {
         if(!set2.contains(s)) {
             answer[0].add(s);
-        } else {
-            common.add(s);
-        }
+        } else continue;
     }
     for(int s in set2) {
-        if(!common.contains(s)) {
+        if(!set1.contains(s)) {
             answer[1].add(s);
         } else continue;
     }
