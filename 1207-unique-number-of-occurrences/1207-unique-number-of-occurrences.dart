@@ -16,8 +16,6 @@ class Solution {
             list[1].add(1);
         }
     }
-    Set<int> listSet = Set<int>.from(list[1]);
-    if(list[1].length == listSet.length) return true;
-    else return false; 
+    return list[1].length == list[1].toSet().length;
   }
 }
