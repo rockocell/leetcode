@@ -1,20 +1,24 @@
 class Solution {
   bool uniqueOccurrences(List<int> arr) {
-    // arr을 set으로 만들어 저장
-    // set 내부 요소를 for in 문으로 arr내부에 몇 개 있는지 확인
-    // where로 구하고 length로 길이 확인, list 에 넣기
-    // 위에서 구한 list를 set으로 바꾸기 => list와 set의 길이가 같으면 모든 요소의 개수가 고유한 것
-    Set<int> arrSet = Set<int>.from(arr);
-    bool result = false;
-    List<int> list = [];
+    //// 빈 이중리스트 만들기
+    // List<List<int>> list = [[],[]]
+    // list[0]에는 요소, list[1]에는 해당 요소가 몇 개 있는지 넣기
+    // arr를 for문으로 돌기
+    // 요소 하나하나를 확인: 이미 list[0]에 있는 값이면 해당값 인덱스를 찾아 list[1][index] ++; , 없으면 list[0]에 값 추가, list[1].add(1);
 
-    for(int a in arrSet){
-        list.add(arr.where((n)=> n == a).length);
+    List<List<int>> list = [[],[]];
+
+    for(int a in arr){
+        if (list[0].contains(a)){
+            int index = list[0].indexOf(a);
+            list[1][index] ++;
+        } else {
+            list[0].add(a);
+            list[1].add(1);
+        }
     }
-
-    Set<int> listSet = Set<int>.from(list); 
-    if(list.length == listSet.length) result = true;
-
-    return result;
+    Set<int> listSet = Set<int>.from(list[1]);
+    if(list[1].length == listSet.length) return true;
+    else return false; 
   }
 }
