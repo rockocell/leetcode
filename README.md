@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rockocell/leetcode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/rockocell/leetcode/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/rockocell/leetcode/tree/master/0932-monotonic-array) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/rockocell/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rockocell/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Two Pointers
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/rockocell/leetcode/tree/master/0066-plus-one) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/rockocell/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rockocell/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Stack
 |  |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rockocell/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/rockocell/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
