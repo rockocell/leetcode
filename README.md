@@ -41,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/rockocell/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/rockocell/leetcode/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/rockocell/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
