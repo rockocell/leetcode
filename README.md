@@ -25,14 +25,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/rockocell/leetcode/tree/master/0682-baseball-game) |
+| [2470-removing-stars-from-a-string](https://github.com/rockocell/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/rockocell/leetcode/tree/master/0682-baseball-game) |
+| [2470-removing-stars-from-a-string](https://github.com/rockocell/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rockocell/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2470-removing-stars-from-a-string](https://github.com/rockocell/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## String Matching
 |  |
 | ------- |
