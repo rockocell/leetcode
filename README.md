@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rockocell/leetcode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/rockocell/leetcode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/rockocell/leetcode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/rockocell/leetcode/tree/master/0682-baseball-game) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rockocell/leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rockocell/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/rockocell/leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/rockocell/leetcode/tree/master/0443-string-compression) |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/rockocell/leetcode/tree/master/0338-counting-bits) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rockocell/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
