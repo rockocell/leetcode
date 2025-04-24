@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rockocell/leetcode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/rockocell/leetcode/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/rockocell/leetcode/tree/master/0932-monotonic-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/rockocell/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/rockocell/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rockocell/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Two Pointers
@@ -60,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rockocell/leetcode/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/rockocell/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/rockocell/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/rockocell/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
