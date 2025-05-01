@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/rockocell/leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/rockocell/leetcode/tree/master/0682-baseball-game) |
 | [2470-removing-stars-from-a-string](https://github.com/rockocell/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rockocell/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0394-decode-string](https://github.com/rockocell/leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/rockocell/leetcode/tree/master/0443-string-compression) |
 | [1119-robot-bounded-in-circle](https://github.com/rockocell/leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [2470-removing-stars-from-a-string](https://github.com/rockocell/leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/rockocell/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/rockocell/leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
