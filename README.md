@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/rockocell/leetcode/tree/master/0932-monotonic-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/rockocell/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/rockocell/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rockocell/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rockocell/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Two Pointers
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/rockocell/leetcode/tree/master/0338-counting-bits) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rockocell/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/rockocell/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rockocell/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
