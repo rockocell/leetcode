@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rockocell/leetcode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/rockocell/leetcode/tree/master/0066-plus-one) |
+| [0238-product-of-array-except-self](https://github.com/rockocell/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rockocell/leetcode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/rockocell/leetcode/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/rockocell/leetcode/tree/master/0932-monotonic-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/rockocell/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/rockocell/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Recursion
 |  |
