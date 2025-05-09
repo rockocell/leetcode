@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/rockocell/leetcode/tree/master/0932-monotonic-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/rockocell/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/rockocell/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rockocell/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rockocell/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rockocell/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Two Pointers
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/rockocell/leetcode/tree/master/0394-decode-string) |
+## Sorting
+|  |
+| ------- |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rockocell/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 <!---LeetCode Topics End-->
