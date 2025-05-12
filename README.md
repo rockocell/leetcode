@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/rockocell/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rockocell/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rockocell/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1677-matrix-diagonal-sum](https://github.com/rockocell/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rockocell/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Two Pointers
 |  |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rockocell/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/rockocell/leetcode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
