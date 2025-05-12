@@ -17,6 +17,7 @@ class Solution {
             if(i != (mat.length-1-i)) {
                 result += mat[i][i] + mat[i][(mat.length-1-i)];
             } else {
+                // mat.length가 홀수인 경우 가운데 변에서는 숫자 하나만 더함
                 result += mat[i][i];
             }
         }
